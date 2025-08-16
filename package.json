@@ -1,0 +1,14 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --no-optimize --no-scope-hoist --dist-dir ./dist"
+  },
+  "author": "chosen-yu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
